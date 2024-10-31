@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Randomize\n"
+"POT-Creation-Date: 2018-08-01 02:30+0200\n"
+"PO-Revision-Date: 2018-08-01 02:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: randomize.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: randomize.php:105
+msgid "Title"
+msgstr "Titel"
+
+#: randomize.php:108
+msgid "Pre-Text"
+msgstr "Präfix"
+
+#: randomize.php:111 randomize_admin.php:122 randomize_admin.php:137
+#: randomize_admin.php:201
+msgid "Category"
+msgstr "Kategorie"
+
+#: randomize.php:113
+msgid "All Categories "
+msgstr "Alle Kategorien "
+
+#: randomize.php:117
+msgid "Post-Text: "
+msgstr "Suffix "
+
+#: randomize.php:121
+msgid "Mode "
+msgstr "Modus "
+
+#: randomize.php:123
+msgid "Random"
+msgstr "Zufällig"
+
+#: randomize.php:124
+msgid "Rotation"
+msgstr "Nacheinander"
+
+#: randomize.php:126
+msgid ""
+"Note: Random can be more intensive with large record sets, and some items "
+"may never appear."
+msgstr ""
+"Hinweis: Der Zufallsmodus kann logischerweise dazu führen, dass einige "
+"Elemente deutlich häufiger oder seltener ausgegeben werden."
+
+#: randomize_admin.php:3
+msgid "An undefined error has occured. "
+msgstr "Ein unbekannter Fehler ist aufgetreten. "
+
+#: randomize_admin.php:4
+msgid " - Error"
+msgstr " - Fehler"
+
+#: randomize_admin.php:16
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: randomize_admin.php:83
+msgid "Caution! The expected database table "
+msgstr "Achtung! Die angeforderte Datenbanktabelle "
+
+#: randomize_admin.php:83
+msgid " does't seem to exist"
+msgstr " scheint nicht zu existieren"
+
+#: randomize_admin.php:99
+msgid "Previous"
+msgstr "Zurück"
+
+#: randomize_admin.php:100
+msgid "Next"
+msgstr "Weiter"
+
+#: randomize_admin.php:123
+msgid "View all categories"
+msgstr "Alle Kategorien anzeigen"
+
+#: randomize_admin.php:128
+msgid "Displaying "
+msgstr "Ansicht: "
+
+#: randomize_admin.php:135
+msgid "#"
+msgstr "#"
+
+#: randomize_admin.php:136
+msgid "Text"
+msgstr "Text"
+
+#: randomize_admin.php:138
+msgid "Author"
+msgstr "Autor"
+
+#: randomize_admin.php:139
+msgid "Action"
+msgstr "Aktion"
+
+#: randomize_admin.php:150
+msgid "visible"
+msgstr "sichtbar"
+
+#: randomize_admin.php:150
+msgid "hidden"
+msgstr "ausgeblendet"
+
+#: randomize_admin.php:159
+msgid "Edit"
+msgstr "Ändern"
+
+#: randomize_admin.php:161
+msgid "Delete"
+msgstr "Löschen"
+
+#: randomize_admin.php:165
+msgid "You like this plugin?"
+msgstr "Dieses Plugin gefällt dir?"
+
+#: randomize_admin.php:165
+msgid "I'm happy about your donation."
+msgstr "Ich freue mich über deine Spende."
+
+#: randomize_admin.php:165
+msgid "redirects you to PayPal"
+msgstr "Weiterleitung zu PayPal"
+
+#: randomize_admin.php:173
+msgid " - Add new"
+msgstr " - Hinzufügen"
+
+#: randomize_admin.php:182
+msgid "The requested entry was not found."
+msgstr "Der angeforderte Eintrag wurde nicht gefunden."
+
+#: randomize_admin.php:186
+msgid "Yes"
+msgstr "Ja"
+
+#: randomize_admin.php:191
+msgid "The requested entry was not found"
+msgstr "Der angeforderte Eintrag wurde nicht gefunden"
+
+#: randomize_admin.php:199
+msgid "Content to display: "
+msgstr "Anzuzeigende Inhalte: "
+
+#: randomize_admin.php:200
+msgid ""
+"You can enter text or HTML tags to embed pictures, videos and much more."
+msgstr ""
+"Du kannst Text oder HTML-Tags zum Einbetten von Bildern, Videos und vielem "
+"mehr eingeben."
+
+#: randomize_admin.php:202
+msgid "Select a category from the list or create a new one."
+msgstr "Wähle eine vorhandene Kategorie aus der Liste oder lege eine neue an."
+
+#: randomize_admin.php:203
+msgid "Category: "
+msgstr "Kategorie: "
+
+#: randomize_admin.php:206
+msgid "New Category"
+msgstr "Neue Kategorie"
+
+#: randomize_admin.php:208
+msgid "Visibility"
+msgstr "Sichtbarkeit"
+
+#: randomize_admin.php:209
+msgid "Public "
+msgstr "Öffentlich "
+
+#: randomize_admin.php:210
+msgid "Private"
+msgstr "Privat"
+
+#: randomize_admin.php:213
+msgid "Type of import"
+msgstr "Art des Imports"
+
+#: randomize_admin.php:214
+msgid "Bulk import for multiple items"
+msgstr "Mehrere Elemente zur Massenverarbeitung"
+
+#: randomize_admin.php:214
+msgid "Just a single item"
+msgstr "Nur ein einzelnes Element"
+
+#: randomize_admin.php:214
+msgid ""
+"Bulk insert will create a new record for each line (delimited by carriage "
+"return) within the text box above using the same category selected.<br /"
+">Empty lines will be ignored."
+msgstr ""
+"Die Masserverarbeitung wird für jede Zeile einen separaten Eintrag in der "
+"gewählten Kategorie anlegen.<br />Leere Zeilen werden ignoriert."
+
+#: randomize_admin.php:218
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+#: randomize_admin.php:222
+msgid "Return to "
+msgstr "Zurück zur "
+
+#: randomize_admin.php:222
+msgid "Summary page"
+msgstr "Übersichtsseite"
+
+#. Plugin Name of the plugin/theme
+msgid "Randomize"
+msgstr "Randomize"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/randomize/"
+msgstr "https://wordpress.org/plugins/randomize/"
+
+#. Description of the plugin/theme
+msgid ""
+"Display randomized text in a widget or on posts/pages by shortcode. "
+"Originally scripted by Greg Jackson."
+msgstr ""
+"Gibt zuvor gespeicherte Texte und andere Inhalte auf der Webseite aus. "
+"Entweder in einem Widget, per Shortcode oder PHP Template Tag."
+
+#. Author of the plugin/theme
+msgid "vk1337"
+msgstr "vk1337"
+
+#. Author URI of the plugin/theme
+msgid "https://vk1337.com"
+msgstr "https://vk1337.com"
+
+#~ msgid "Displays text or another pre-defined content in a widget area"
+#~ msgstr ""
+#~ "Zeigt Text oder einen anderen vordefinierten Inhalt in einem "
+#~ "Widgetbereich an"
+
+#~ msgid "Selection: "
+#~ msgstr "Auswahl: "
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "You are about to delete post #"
+#~ msgstr "Du bist dabei diesen Eintrag zu löschen: #"
+
+#~ msgid "Cancel to stop, OK to delete"
+#~ msgstr "Drücke OK um fortzufahren"
+
+#~ msgid "Delete this post"
+#~ msgstr "Diesen Beitrag löschen"
+
+#~ msgid "Add new"
+#~ msgstr "Hinzufügen"
+
+#~ msgid "Is visible?"
+#~ msgstr "Sichtbar?"
+
+#~ msgid "Yes "
+#~ msgstr "Ja"
+
+#~ msgid "No"
+#~ msgstr "Nein Nein"
+
+#~ msgid "Use bulk insert?"
+#~ msgstr "Massenverarbeitung verwenden?"
+
+#~ msgid " Yes"
+#~ msgstr " Ja"
